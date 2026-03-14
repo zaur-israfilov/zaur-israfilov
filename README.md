@@ -25,7 +25,6 @@ I build analytical projects that turn raw data into clear business insights.
 
 * LinkedIn: https://linkedin.com/in/zaur-israfilov-1524b925b
 * Email: [israfilovzaur1@gmail.com](mailto:israfilovzaur1@gmail.com)
-## Hi there 👋
 
 <!--
 **zaur-israfilov/zaur-israfilov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

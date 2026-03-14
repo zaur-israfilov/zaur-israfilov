@@ -1,3 +1,30 @@
+# Zaur İsrafilov
+
+Data Analyst focusing on **SQL, Python and Business Intelligence**.
+I build analytical projects that turn raw data into clear business insights.
+
+## Skills
+
+* SQL (data analysis, aggregations, joins)
+* Python (Pandas, data analysis)
+* Excel (data cleaning, pivot tables)
+* Power BI (dashboards and reporting)
+
+## Current Focus
+
+* Data analytics projects
+* SQL case studies
+* Business intelligence dashboards
+
+## Projects
+
+* **Data Analytics Portfolio**
+  https://github.com/zaur-israfilov/data_analytics
+
+## Contact
+
+* LinkedIn: https://linkedin.com/in/zaur-israfilov-1524b925b
+* Email: [israfilovzaur1@gmail.com](mailto:israfilovzaur1@gmail.com)
 ## Hi there 👋
 
 <!--

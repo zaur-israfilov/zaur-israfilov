@@ -32,6 +32,3 @@ End-to-end data analysis project covering data cleaning, SQL analysis, Python ED
 ## 📫 Contact
 - Email: israfilovzaur1@gmail.com
 - LinkedIn: https://linkedin.com/in/zaur-israfilov-1524b925b
-
-- ## 📈 GitHub Stats
-![Zaur's GitHub stats](https://github-readme-stats.vercel.app/api?username=zaur-israfilov&show_icons=true)
